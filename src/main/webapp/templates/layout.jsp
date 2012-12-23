@@ -13,27 +13,29 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title><tiles:insertAttribute name="title" ignore="true" /></title>
+
+        <link href="../css/main.css" media="all" type="text/css" rel="stylesheet"/>
+        <link href="../css/jquery/jquery-ui-1.9.2.custom.css" type="text/css" rel="stylesheet">
+
+        <script src="../js/jquery-1.8.3.js" type="text/javascript"></script>
+        <script src="../js/jquery-ui-1.9.2.custom.js" type="text/javascript"></script>
     </head>
     <body>
-        <table border="1" cellpadding="2" cellspacing="2" align="center">
-            <tr>
-                <td height="30" colspan="2">
+        <div class="shadow">
+            <div class="mainWrap">
+                <div class="header">
                     <tiles:insertAttribute name="header" />
-                </td>
-            </tr>
-            <tr>
-                <td height="250">
+                </div>
+                <div class="menu">
                     <tiles:insertAttribute name="menu" />
-                </td>
-                <td width="350">
+                </div>
+                <div class="content">
                     <tiles:insertAttribute name="body" />
-                </td>
-            </tr>
-            <tr>
-                <td height="30" colspan="2">
-                    <tiles:insertAttribute name="footer" />
-                </td>
-            </tr>
-        </table>
+                </div>
+            </div>
+            <div class="footer">
+                <tiles:insertAttribute name="footer" />
+            </div>
+        </div>
     </body>
 </html>

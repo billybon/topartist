@@ -14,6 +14,10 @@
             <result name="SUCCESS" type="tiles">home</result>
         </action>
 
+        <action name="news" class="ru.topartist.action.NewsAction">
+            <result name="SUCCESS" type="tiles">news</result>
+        </action>
+
         <action name="page1" class="ru.topartist.action.Page1Action">
             <result name="SUCCESS" type="tiles">page1</result>
         </action>

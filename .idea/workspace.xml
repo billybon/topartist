@@ -1,88 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef8b47dc-b1f0-4a7c-9b00-3ba1b1d15c0e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/TopArtist_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_commons_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_tree_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_tools_1_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_api_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javassist_javassist_3_11_0_GA.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ognl_ognl_3_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_core_2_3_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts2_tiles_plugin_2_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_xwork_xwork_core_2_3_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_api_2_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_compat_2_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_core_2_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_jsp_2_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tiles_tiles_servlet_2_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_18.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/topartist/action/HomeAction.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/topartist/action/Page1Action.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/topartist/action/Page2Action.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/topartist/action/Page3Action.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tiles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/templates/footer.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/templates/header.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/templates/layout.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/templates/menu.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/views/home.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/views/page1.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/views/page2.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/views/page3.jsp" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\.idea\libraries\struts2_2_3_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\asm-commons.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\asm-tree.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\asm.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\commons-beanutils-1.8.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\commons-digester-1.8.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\commons-fileupload.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\commons-io.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\commons-lang.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\commons-logging-1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\freemarker.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\javassist.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\ognl.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\struts2-core.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\struts2-tiles-plugin-2.1.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\tiles-api-2.1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\tiles-compat-2.1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\tiles-core-2.1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\tiles-jsp-2.1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\tiles-servlet-2.1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\lib\xwork-core.jar" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\src\ru\topartist\action\HomeAction.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\src\ru\topartist\action\Page1Action.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\src\ru\topartist\action\Page2Action.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\src\ru\topartist\action\Page3Action.java" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\web\WEB-INF\tiles.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\web\WEB-INF\web.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\web\index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\web\templates\footer.jsp" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\web\templates\header.jsp" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\web\templates\layout.jsp" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\web\templates\menu.jsp" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\web\views\home.jsp" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\web\views\page1.jsp" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\web\views\page2.jsp" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\TopArtist\web\views\page3.jsp" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/TopArtist_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/TopArtist_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="ef8b47dc-b1f0-4a7c-9b00-3ba1b1d15c0e" name="Default" comment="Перевел проект на maven">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/bgshadow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/img1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/img2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/img3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/test/199480111_87d4cb3e38_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/test/199481072_b4a0d09597_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/test/199481087_33ae73a8de_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/test/199481108_4359e6b971_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/test/199481143_3c148d9dd3_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/test/199481203_ad4cdcf109_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/test/199481218_264ce20da0_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/test/199481236_dc98b5abb3_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/test/199481255_fdfe885f87_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/images/test/229228324_08223b70fa_s.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Alexey.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/topartist/action/NewsAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ru/topartist/dto/NewsDTO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/home.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery/jquery-ui-1.9.2.custom.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/jquery/jquery-ui-1.9.2.custom.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/sudoSlider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-1.8.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-ui-1.9.2.custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-ui-1.9.2.custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.carouFredSel-6.1.0-packed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.carouFredSel-6.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.sudoSlider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.sudoSlider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/views/news.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TopArtist.iml" afterPath="$PROJECT_DIR$/TopArtist.iml" />
-      <change type="MOVED" beforePath="D:\Projects\TopArtist\src\struts.xml" afterPath="$PROJECT_DIR$/src/main/resources/struts.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/topartist/action/HomeAction.java" afterPath="$PROJECT_DIR$/src/main/java/ru/topartist/action/HomeAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/topartist/action/Page1Action.java" afterPath="$PROJECT_DIR$/src/main/java/ru/topartist/action/Page1Action.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/topartist/action/Page2Action.java" afterPath="$PROJECT_DIR$/src/main/java/ru/topartist/action/Page2Action.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/topartist/action/Page3Action.java" afterPath="$PROJECT_DIR$/src/main/java/ru/topartist/action/Page3Action.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/struts.xml" afterPath="$PROJECT_DIR$/src/main/resources/struts.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tiles.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/tiles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/templates/footer.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/templates/footer.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/templates/header.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/templates/header.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/templates/layout.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/templates/layout.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/templates/menu.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/templates/menu.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/views/home.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/views/home.jsp" />
     </list>
     <ignored path="TopArtist.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -140,10 +117,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="home.jsp" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/home.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="36" selection-start="478" selection-end="478" vertical-scroll-proportion="0.2589928">
+            <state line="32" column="57" selection-start="1186" selection-end="1186" vertical-scroll-proportion="0.19729207">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/home.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="15" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sudoSlider.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/sudoSlider.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="23" selection-start="335" selection-end="341" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="17" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/layout.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="0" selection-start="1371" selection-end="1371" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -162,22 +175,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/web/views/home.jsp" />
-        <option value="$PROJECT_DIR$/src/ru/topartist/action/HomeAction.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/web/views/page3.jsp" />
-        <option value="$PROJECT_DIR$/web/views/page2.jsp" />
-        <option value="$PROJECT_DIR$/web/views/page1.jsp" />
-        <option value="$PROJECT_DIR$/src/struts.xml" />
-        <option value="$PROJECT_DIR$/src/ru/topartist/action/Page1Action.java" />
-        <option value="$PROJECT_DIR$/src/ru/topartist/action/Page2Action.java" />
-        <option value="$PROJECT_DIR$/src/ru/topartist/action/Page3Action.java" />
-        <option value="$PROJECT_DIR$/web/templates/menu.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/tiles.xml" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
-        <option value="$PROJECT_DIR$/web/templates/header.jsp" />
-        <option value="$PROJECT_DIR$/web/templates/footer.jsp" />
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/topartist/action/HomeAction.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/views/news.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/struts.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/tiles.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ru/topartist/action/NewsAction.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/templates/layout.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/sudoSlider.css" />
+        <option value="D:/jsor-jcarousel-7bb2e0a/examples/special_easing.html" />
+        <option value="D:/jsor-jcarousel-7bb2e0a/lib/jquery.jcarousel.js" />
+        <option value="D:/jsor-jcarousel-7bb2e0a/examples/static_auto.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/main.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/js/jquery.jcarousel.js" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/jcarousel.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/skins/tango/skin.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/css/home.css" />
+        <option value="$PROJECT_DIR$/src/main/webapp/views/home.jsp" />
       </list>
     </option>
   </component>
@@ -330,12 +343,16 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Project Files">
+      <pane id="PackagesPane">
+        <subPane>
           <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopArtist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TopArtist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -360,16 +377,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopArtist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TopArtist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -377,19 +390,19 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="232" />
-    <property name="project.structure.proportion" value="0.15" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="232" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="recentsLimit" value="5" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="232" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="232" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="907" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="906" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="907" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="232" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="231" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -404,11 +417,11 @@
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.lastSelected" value="fileTemplates" />
     <property name="project.structure.side.proportion" value="0.35028902" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -419,151 +432,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\TopArtist\src\main\resources" />
     </key>
-  </component>
-  <component name="RestoreUpdateTree">
-    <UpdateInfo date="Moments ago" ActionInfo="_Update">
-      <UpdatedFiles>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Updated from server" />
-          <option name="myStatusName" value="Changed on server" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="CHANGED_ON_SERVER" />
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Updated" />
-            <option name="myStatusName" value="Changed" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="false" />
-            <option name="myId" value="UPDATED" />
-          </FILE-GROUP>
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Created" />
-            <option name="myStatusName" value="Created" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="false" />
-            <option name="myId" value="CREATED" />
-          </FILE-GROUP>
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Deleted" />
-            <option name="myStatusName" value="Deleted" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="true" />
-            <option name="myId" value="REMOVED_FROM_REPOSITORY" />
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/classes/ru/topartist/action/HomeAction.class</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/classes/ru/topartist/action/Page1Action.class</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/classes/ru/topartist/action/Page2Action.class</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/classes/ru/topartist/action/Page3Action.class</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/classes/struts.xml</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/asm-commons.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/asm-tree.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/asm.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/commons-beanutils-1.8.0.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/commons-digester-1.8.1.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/commons-fileupload.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/commons-io.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/commons-lang.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/commons-logging-1.1.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/freemarker.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/javassist.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/ognl.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/struts2-core.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/struts2-tiles-plugin-2.1.6.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/tiles-api-2.1.2.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/tiles-compat-2.1.2.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/tiles-core-2.1.2.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/tiles-jsp-2.1.2.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/tiles-servlet-2.1.2.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/lib/xwork-core.jar</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/tiles.xml</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/WEB-INF/web.xml</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/index.jsp</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/templates/footer.jsp</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/templates/header.jsp</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/templates/layout.jsp</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/templates/menu.jsp</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/views/home.jsp</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/views/page1.jsp</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/views/page2.jsp</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/artifacts/TopArtist_war_exploded/views/page3.jsp</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/TopArtist/ru/topartist/action/HomeAction.class</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/TopArtist/ru/topartist/action/Page1Action.class</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/TopArtist/ru/topartist/action/Page2Action.class</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/TopArtist/ru/topartist/action/Page3Action.class</PATH>
-            <PATH vcs="Git" revision="">$PROJECT_DIR$/out/production/TopArtist/struts.xml</PATH>
-          </FILE-GROUP>
-          <FILE-GROUP>
-            <option name="myUpdateName" value="Restored" />
-            <option name="myStatusName" value="Will be restored" />
-            <option name="mySupportsDeletion" value="false" />
-            <option name="myCanBeAbsent" value="false" />
-            <option name="myId" value="RESTORED" />
-          </FILE-GROUP>
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Modified" />
-          <option name="myStatusName" value="Modified" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MODIFIED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Skipped" />
-          <option name="myStatusName" value="Skipped" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="SKIPPED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged with conflicts" />
-          <option name="myStatusName" value="Will be merged with conflicts" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED_WITH_CONFLICTS" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged with tree conflicts" />
-          <option name="myStatusName" value="Merged with tree conflicts" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Merged" />
-          <option name="myStatusName" value="Will be merged" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="MERGED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Not in repository" />
-          <option name="myStatusName" value="Not in repository" />
-          <option name="mySupportsDeletion" value="true" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="UNKNOWN" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Locally added" />
-          <option name="myStatusName" value="Locally added" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="LOCALLY_ADDED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Locally removed" />
-          <option name="myStatusName" value="Locally removed" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="LOCALLY_REMOVED" />
-        </FILE-GROUP>
-        <FILE-GROUP>
-          <option name="myUpdateName" value="Switched" />
-          <option name="myStatusName" value="Switched" />
-          <option name="mySupportsDeletion" value="false" />
-          <option name="myCanBeAbsent" value="false" />
-          <option name="myId" value="SWITCHED" />
-        </FILE-GROUP>
-      </UpdatedFiles>
-    </UpdateInfo>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 7">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -615,24 +483,6 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -659,6 +509,24 @@
       <envs />
       <properties />
       <listeners />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
@@ -737,7 +605,7 @@
     </configuration>
     <configuration default="false" name="Tomcat 7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7">
       <option name="OPEN_IN_BROWSER" value="false" />
-      <option name="UPDATING_POLICY" value="restart-server" />
+      <option name="UPDATING_POLICY" value="update-resources" />
       <deployment>
         <artifact name="TopArtist:war exploded">
           <settings>
@@ -845,7 +713,11 @@
       <created>1355670116951</created>
       <updated>1355670116951</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Перевел проект на maven">
+      <created>1356036565764</created>
+      <updated>1356036565764</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -853,27 +725,27 @@
     <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.6709007" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.49816176" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24938725" sideWeight="0.2182448" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32965687" sideWeight="0.6709007" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24938725" sideWeight="0.6709007" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290993" sideWeight="0.49754903" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -973,17 +845,68 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/struts.xml">
-      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
-        <state />
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/topartist/action/Page1Action.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="53" selection-start="974" selection-end="974" vertical-scroll-proportion="0.0" />
+        <state line="15" column="22" selection-start="189" selection-end="278" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ru/topartist/action/NewsAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="36" selection-start="478" selection-end="478" vertical-scroll-proportion="0.2589928">
+        <state line="14" column="4" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/menu.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="10" selection-start="293" selection-end="293" vertical-scroll-proportion="0.4586331" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://D:/jsor-jcarousel-7bb2e0a/lib/jquery.jcarousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="166" column="46" selection-start="5690" selection-end="5690" vertical-scroll-proportion="-0.68" />
+      </provider>
+    </entry>
+    <entry file="file://D:/jsor-jcarousel-7bb2e0a/examples/special_easing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="0" selection-start="1103" selection-end="1223" vertical-scroll-proportion="0.5509434" />
+      </provider>
+    </entry>
+    <entry file="file://D:/jsor-jcarousel-7bb2e0a/examples/static_auto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="0" selection-start="1175" selection-end="1372" vertical-scroll-proportion="-9.923077" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="17" selection-start="55" selection-end="55" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/templates/layout.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="1371" selection-end="1371" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/sudoSlider.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="23" selection-start="335" selection-end="341" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/css/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="15" selection-start="1017" selection-end="1017" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/home.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="57" selection-start="1186" selection-end="1186" vertical-scroll-proportion="0.19729207">
           <folding />
         </state>
       </provider>
@@ -1000,6 +923,17 @@
               <list>
                 <option value="0.35028902" />
                 <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>

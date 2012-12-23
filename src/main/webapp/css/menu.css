@@ -1,0 +1,60 @@
+/*------------------------------------*\
+	НАВИГАЦИЯ
+\*------------------------------------*/
+#nav{
+    background-color: #CA3032;
+    list-style: none outside none;
+    margin: 0;
+    padding: 5px 0;
+    width: 100%;
+    float: left;
+}
+
+#nav li {
+    float: left;
+    margin: 0 5px;
+    position: relative;
+    display: block;
+}
+
+#nav a {
+    display: block;
+    padding: 5px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#nav * li > a {
+    border-radius: 0;
+}
+
+/*--- ВЫПАДАЮЩИЕ ПУНКТЫ ---*/
+#nav > li ul{
+    list-style:none;
+    position:absolute;
+    left:-9999px;
+    opacity:0;
+    padding: 0;
+    background-color: #CA3032;
+    min-width: 150px;
+    z-index: 10001;
+}
+
+#nav > li ul > li {
+    float: none;
+    margin: 0;
+}
+
+#nav > li:hover ul{
+    left: 0;
+    opacity: 1;
+}
+
+#nav > li:hover > a {
+    background-color: #DC6A6A;
+}
+
+#nav > li:hover a:hover{
+    color: #fff;
+    background: #DC6A6A;
+}

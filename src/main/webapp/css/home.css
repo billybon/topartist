@@ -1,0 +1,97 @@
+.sliders {
+    clear: both;
+    overflow: auto;
+}
+
+#slider {
+    float: left;
+    margin-right: 5px;
+}
+
+.carousels {
+    overflow: hidden;
+}
+
+.superMini {
+    float: left;
+    overflow: hidden;
+    width: 325px;
+}
+
+.superMini ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: block;
+}
+
+.superMini li {
+    font-size: 30px;
+    color: #666;
+    text-align: center;
+    width: 75px;
+    height: 75px;
+    padding: 0;
+    margin: 3px;
+    display: block;
+    float: left;
+}
+
+.superMini li img {
+    width: 75px;
+    height: 75px;
+}
+
+.clearfix {
+    float: none;
+    clear: both;
+}
+
+.super {
+    float: right;
+    width:160px;
+    height:160px;
+}
+
+.super ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: block;
+}
+
+.super li {
+    font-size: 30px;
+    color: #666;
+    text-align: center;
+    width: 160px;
+    height: 160px;
+    padding: 0;
+    margin: 0;
+    display: block;
+    float: left;
+}
+
+.super li img {
+    width: 160px;
+    height: 160px;
+}
+
+.aboutUs {
+    height: 207px;
+}
+
+.aboutUs b, .choose b, .news b {
+    color: #CA3032;
+}
+
+.news .date {
+    font-size: 10px;
+    margin-right: 10px;
+}
+
+.news .more {
+    font-size: 10px;
+    margin-left: 5px;
+    text-decoration: underline;
+}

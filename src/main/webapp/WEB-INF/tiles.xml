@@ -16,6 +16,11 @@
         <put-attribute name="body" value="/views/home.jsp" />
     </definition>
 
+    <definition name="news" extends="baseLayout">
+        <put-attribute name="title" value="Новости" />
+        <put-attribute name="body" value="/views/news.jsp" />
+    </definition>
+
     <definition name="page1" extends="baseLayout">
         <put-attribute name="title" value="Page 1" />
         <put-attribute name="body" value="/views/page1.jsp" />

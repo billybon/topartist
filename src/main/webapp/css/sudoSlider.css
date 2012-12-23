@@ -1,0 +1,30 @@
+#slider ul, #slider li{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: relative;
+    display: block;
+}
+
+#slider, #slider li {
+    overflow: hidden;
+}
+
+.caption {
+    position: absolute;
+    bottom: 3px;
+    left: 0;
+    width: 100%;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    background: #CA3032;
+    background: transparent;
+    background: rgba(202,48,50,0.5);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#a3CA3032,endColorstr=#a3CA3032);
+}
+
+.caption a {
+    text-decoration: none;
+    color: white;
+}
