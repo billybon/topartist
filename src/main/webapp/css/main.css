@@ -49,3 +49,7 @@ body {
     left:50px;
     right: 50px;
 }
+
+.navigation {
+    text-align: right;
+}

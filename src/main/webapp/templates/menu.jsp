@@ -10,7 +10,7 @@
     <li>
         <a href="<s:url action="page1"/>">Об агентстве</a>
         <ul>
-            <li><a href="<s:url action="page1"/>">Page 1</a></li>
+            <li><a href="<s:url action="registration"/>">Регистрация</a></li>
             <li><a href="<s:url action="page2"/>">Page 2</a></li>
             <li><a href="<s:url action="page3"/>">Page 3</a></li>
         </ul>

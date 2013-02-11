@@ -18,6 +18,14 @@
             <result name="SUCCESS" type="tiles">news</result>
         </action>
 
+        <action name="registration" class="ru.topartist.action.RegistrationAction">
+            <result name="SUCCESS" type="tiles">registration</result>
+        </action>
+
+        <action name="saveArtist" class="ru.topartist.action.RegistrationAction" method="saveArtist">
+            <result name="SUCCESS" type="tiles">registration</result>
+        </action>
+
         <action name="page1" class="ru.topartist.action.Page1Action">
             <result name="SUCCESS" type="tiles">page1</result>
         </action>

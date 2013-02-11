@@ -1,0 +1,12 @@
+.registration td {
+    vertical-align: top;
+}
+
+.registration input {
+    width: 200px;
+}
+
+.registration textarea {
+    width: 400px;
+    height: 120px;
+}
