@@ -1,7 +1,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ taglib prefix="s" uri="/struts-tags" %>
 
-<link href="../css/menu.css" media="all" type="text/css" rel="stylesheet"/>
+<link href="css/menu.css" media="all" type="text/css" rel="stylesheet"/>
 
 <ul id="nav">
     <li>
